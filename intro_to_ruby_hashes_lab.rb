@@ -53,7 +53,7 @@ def monopoly_with_fourth_tier
   # complexity.
   monopoly = {
     
-  :railroads => {
+  railroads : {
     :pieces => 4,
     :rent_in_dollars => {
       :one_piece_owne =>25,
