@@ -56,7 +56,9 @@ def monopoly_with_fourth_tier
   :railroads => 
   {
     :pieces => 4,
-    :rent_in_dollars => {
+    
+    :rent_in_dollars => 
+    {
       :one_piece_owne =>25,
       :two_pieces_owne => 50,
        :three_pieces_owned => 100, 
